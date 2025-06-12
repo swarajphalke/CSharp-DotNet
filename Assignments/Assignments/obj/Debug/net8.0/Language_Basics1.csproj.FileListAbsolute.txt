@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\.Net\Assignments\Assignments\bin\Debug\net8.0\Language_Basics1.exe
+C:\Users\Admin\OneDrive\Desktop\.Net\Assignments\Assignments\bin\Debug\net8.0\Language_Basics1.deps.json
+C:\Users\Admin\OneDrive\Desktop\.Net\Assignments\Assignments\bin\Debug\net8.0\Language_Basics1.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\.Net\Assignments\Assignments\bin\Debug\net8.0\Language_Basics1.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\Assignments\Assignments\bin\Debug\net8.0\Language_Basics1.pdb
+C:\Users\Admin\OneDrive\Desktop\.Net\Assignments\Assignments\obj\Debug\net8.0\Language_Basics1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\.Net\Assignments\Assignments\obj\Debug\net8.0\Language_Basics1.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\Assignments\Assignments\obj\Debug\net8.0\Language_Basics1.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\.Net\Assignments\Assignments\obj\Debug\net8.0\Language_Basics1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\Assignments\Assignments\obj\Debug\net8.0\Language_Basics1.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\Assignments\Assignments\obj\Debug\net8.0\refint\Language_Basics1.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\Assignments\Assignments\obj\Debug\net8.0\Language_Basics1.pdb
+C:\Users\Admin\OneDrive\Desktop\.Net\Assignments\Assignments\obj\Debug\net8.0\Language_Basics1.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\Assignments\Assignments\obj\Debug\net8.0\ref\Language_Basics1.dll
