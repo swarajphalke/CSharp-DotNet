@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ControlStructures
 {
-    internal class ElseIf1
+        internal class ElseIf1
     {
         public static void GradeSystem()
         {
@@ -16,10 +16,12 @@ namespace ControlStructures
             if (score >= 90)
             {
                 Console.WriteLine("A Grade");
-            }else if(score >= 75)
+            }
+            else if (score >= 75)
             {
                 Console.WriteLine("B Grade");
-            }else if( score >= 60)
+            }
+            else if (score >= 60)
             {
                 Console.WriteLine("C Grade");
             }
