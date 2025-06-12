@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\.Net\ControlStructures\ControlStructures\bin\Debug\net8.0\ControlStructures.exe
+C:\Users\Admin\OneDrive\Desktop\.Net\ControlStructures\ControlStructures\bin\Debug\net8.0\ControlStructures.deps.json
+C:\Users\Admin\OneDrive\Desktop\.Net\ControlStructures\ControlStructures\bin\Debug\net8.0\ControlStructures.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\.Net\ControlStructures\ControlStructures\bin\Debug\net8.0\ControlStructures.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\ControlStructures\ControlStructures\bin\Debug\net8.0\ControlStructures.pdb
+C:\Users\Admin\OneDrive\Desktop\.Net\ControlStructures\ControlStructures\obj\Debug\net8.0\ControlStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\.Net\ControlStructures\ControlStructures\obj\Debug\net8.0\ControlStructures.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\ControlStructures\ControlStructures\obj\Debug\net8.0\ControlStructures.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\.Net\ControlStructures\ControlStructures\obj\Debug\net8.0\ControlStructures.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\ControlStructures\ControlStructures\obj\Debug\net8.0\ControlStructures.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\ControlStructures\ControlStructures\obj\Debug\net8.0\refint\ControlStructures.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\ControlStructures\ControlStructures\obj\Debug\net8.0\ControlStructures.pdb
+C:\Users\Admin\OneDrive\Desktop\.Net\ControlStructures\ControlStructures\obj\Debug\net8.0\ControlStructures.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\ControlStructures\ControlStructures\obj\Debug\net8.0\ref\ControlStructures.dll
