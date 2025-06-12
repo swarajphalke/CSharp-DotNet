@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\.Net\Patterns\Patterns\obj\Debug\net8.0\Patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\.Net\Patterns\Patterns\obj\Debug\net8.0\Patterns.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\Patterns\Patterns\obj\Debug\net8.0\Patterns.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\.Net\Patterns\Patterns\obj\Debug\net8.0\Patterns.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\Patterns\Patterns\bin\Debug\net8.0\Patterns.exe
+C:\Users\Admin\OneDrive\Desktop\.Net\Patterns\Patterns\bin\Debug\net8.0\Patterns.deps.json
+C:\Users\Admin\OneDrive\Desktop\.Net\Patterns\Patterns\bin\Debug\net8.0\Patterns.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\.Net\Patterns\Patterns\bin\Debug\net8.0\Patterns.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\Patterns\Patterns\bin\Debug\net8.0\Patterns.pdb
+C:\Users\Admin\OneDrive\Desktop\.Net\Patterns\Patterns\obj\Debug\net8.0\Patterns.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\Patterns\Patterns\obj\Debug\net8.0\refint\Patterns.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\Patterns\Patterns\obj\Debug\net8.0\Patterns.pdb
+C:\Users\Admin\OneDrive\Desktop\.Net\Patterns\Patterns\obj\Debug\net8.0\Patterns.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\Patterns\Patterns\obj\Debug\net8.0\ref\Patterns.dll

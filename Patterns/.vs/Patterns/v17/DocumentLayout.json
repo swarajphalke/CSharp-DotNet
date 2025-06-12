@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Patterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86D98551-88F6-426A-81FF-A26E401F13DE}|Patterns\\Patterns.csproj|c:\\users\\admin\\onedrive\\desktop\\.net\\patterns\\patterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D98551-88F6-426A-81FF-A26E401F13DE}|Patterns\\Patterns.csproj|solutionrelative:patterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D98551-88F6-426A-81FF-A26E401F13DE}|Patterns\\Patterns.csproj|c:\\users\\admin\\onedrive\\desktop\\.net\\patterns\\patterns\\half_pyramid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D98551-88F6-426A-81FF-A26E401F13DE}|Patterns\\Patterns.csproj|solutionrelative:patterns\\half_pyramid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D98551-88F6-426A-81FF-A26E401F13DE}|Patterns\\Patterns.csproj|c:\\users\\admin\\onedrive\\desktop\\.net\\patterns\\patterns\\floyd_triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D98551-88F6-426A-81FF-A26E401F13DE}|Patterns\\Patterns.csproj|solutionrelative:patterns\\floyd_triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D98551-88F6-426A-81FF-A26E401F13DE}|Patterns\\Patterns.csproj|c:\\users\\admin\\onedrive\\desktop\\.net\\patterns\\patterns\\acme_problem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D98551-88F6-426A-81FF-A26E401F13DE}|Patterns\\Patterns.csproj|solutionrelative:patterns\\acme_problem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Half_Pyramid.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Patterns\\Patterns\\Half_Pyramid.cs",
+              "RelativeDocumentMoniker": "Patterns\\Half_Pyramid.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Patterns\\Patterns\\Half_Pyramid.cs",
+              "RelativeToolTip": "Patterns\\Half_Pyramid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:24:03.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Acme_Problem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Patterns\\Patterns\\Acme_Problem.cs",
+              "RelativeDocumentMoniker": "Patterns\\Acme_Problem.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Patterns\\Patterns\\Acme_Problem.cs",
+              "RelativeToolTip": "Patterns\\Acme_Problem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:22:57.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Floyd_Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Patterns\\Patterns\\Floyd_Triangle.cs",
+              "RelativeDocumentMoniker": "Patterns\\Floyd_Triangle.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Patterns\\Patterns\\Floyd_Triangle.cs",
+              "RelativeToolTip": "Patterns\\Floyd_Triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:22:55.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Patterns\\Patterns\\Program.cs",
+              "RelativeDocumentMoniker": "Patterns\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Patterns\\Patterns\\Program.cs",
+              "RelativeToolTip": "Patterns\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:07:02.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
