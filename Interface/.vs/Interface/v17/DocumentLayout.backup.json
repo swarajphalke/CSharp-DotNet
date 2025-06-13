@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{064EEDF8-C318-4E40-979C-84C6FDDA3017}|Interface\\Interface.csproj|c:\\users\\admin\\onedrive\\desktop\\.net\\interface\\interface\\interface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{064EEDF8-C318-4E40-979C-84C6FDDA3017}|Interface\\Interface.csproj|solutionrelative:interface\\interface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064EEDF8-C318-4E40-979C-84C6FDDA3017}|Interface\\Interface.csproj|c:\\users\\admin\\onedrive\\desktop\\.net\\interface\\interface\\explicit_interface2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064EEDF8-C318-4E40-979C-84C6FDDA3017}|Interface\\Interface.csproj|solutionrelative:interface\\explicit_interface2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064EEDF8-C318-4E40-979C-84C6FDDA3017}|Interface\\Interface.csproj|c:\\users\\admin\\onedrive\\desktop\\.net\\interface\\interface\\explicit_interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064EEDF8-C318-4E40-979C-84C6FDDA3017}|Interface\\Interface.csproj|solutionrelative:interface\\explicit_interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064EEDF8-C318-4E40-979C-84C6FDDA3017}|Interface\\Interface.csproj|c:\\users\\admin\\onedrive\\desktop\\.net\\interface\\interface\\interface.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{064EEDF8-C318-4E40-979C-84C6FDDA3017}|Interface\\Interface.csproj|solutionrelative:interface\\interface.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064EEDF8-C318-4E40-979C-84C6FDDA3017}|Interface\\Interface.csproj|c:\\users\\admin\\onedrive\\desktop\\.net\\interface\\interface\\interface2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064EEDF8-C318-4E40-979C-84C6FDDA3017}|Interface\\Interface.csproj|solutionrelative:interface\\interface2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064EEDF8-C318-4E40-979C-84C6FDDA3017}|Interface\\Interface.csproj|c:\\users\\admin\\onedrive\\desktop\\.net\\interface\\interface\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064EEDF8-C318-4E40-979C-84C6FDDA3017}|Interface\\Interface.csproj|solutionrelative:interface\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Explicit_Interface2.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Interface\\Interface\\Explicit_Interface2.cs",
+              "RelativeDocumentMoniker": "Interface\\Explicit_Interface2.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Interface\\Interface\\Explicit_Interface2.cs",
+              "RelativeToolTip": "Interface\\Explicit_Interface2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:38:17.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Explicit_Interface1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Interface\\Interface\\Explicit_Interface1.cs",
+              "RelativeDocumentMoniker": "Interface\\Explicit_Interface1.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Interface\\Interface\\Explicit_Interface1.cs",
+              "RelativeToolTip": "Interface\\Explicit_Interface1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvxQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:27:23.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Interface",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Interface\\Interface\\Interface.csproj",
+              "RelativeDocumentMoniker": "Interface\\Interface.csproj",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Interface\\Interface\\Interface.csproj",
+              "RelativeToolTip": "Interface\\Interface.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-12T14:26:23.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Interface",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Interface\\Interface\\Interface.csproj",
+              "RelativeDocumentMoniker": "Interface\\Interface.csproj",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Interface\\Interface\\Interface.csproj",
+              "RelativeToolTip": "Interface\\Interface.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-12T14:26:07.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Interface2.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Interface\\Interface\\Interface2.cs",
+              "RelativeDocumentMoniker": "Interface\\Interface2.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Interface\\Interface\\Interface2.cs",
+              "RelativeToolTip": "Interface\\Interface2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:09:13.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Interface1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Interface\\Interface\\Interface1.cs",
+              "RelativeDocumentMoniker": "Interface\\Interface1.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Interface\\Interface\\Interface1.cs",
+              "RelativeToolTip": "Interface\\Interface1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T22:20:42.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
