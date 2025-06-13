@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\.Net\Abstraction\Abstraction\bin\Debug\net8.0\Abstraction.exe
+C:\Users\Admin\OneDrive\Desktop\.Net\Abstraction\Abstraction\bin\Debug\net8.0\Abstraction.deps.json
+C:\Users\Admin\OneDrive\Desktop\.Net\Abstraction\Abstraction\bin\Debug\net8.0\Abstraction.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\.Net\Abstraction\Abstraction\bin\Debug\net8.0\Abstraction.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\Abstraction\Abstraction\bin\Debug\net8.0\Abstraction.pdb
+C:\Users\Admin\OneDrive\Desktop\.Net\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\.Net\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\.Net\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\Abstraction\Abstraction\obj\Debug\net8.0\refint\Abstraction.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.pdb
+C:\Users\Admin\OneDrive\Desktop\.Net\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\Abstraction\Abstraction\obj\Debug\net8.0\ref\Abstraction.dll
