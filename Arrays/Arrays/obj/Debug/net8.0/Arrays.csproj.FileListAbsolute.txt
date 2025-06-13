@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\.Net\Arrays\Arrays\bin\Debug\net8.0\Arrays.exe
+C:\Users\Admin\OneDrive\Desktop\.Net\Arrays\Arrays\bin\Debug\net8.0\Arrays.deps.json
+C:\Users\Admin\OneDrive\Desktop\.Net\Arrays\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\.Net\Arrays\Arrays\bin\Debug\net8.0\Arrays.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\Arrays\Arrays\bin\Debug\net8.0\Arrays.pdb
+C:\Users\Admin\OneDrive\Desktop\.Net\Arrays\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\.Net\Arrays\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\Arrays\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\.Net\Arrays\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\Arrays\Arrays\obj\Debug\net8.0\Arrays.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\Arrays\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\Arrays\Arrays\obj\Debug\net8.0\Arrays.pdb
+C:\Users\Admin\OneDrive\Desktop\.Net\Arrays\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\Arrays\Arrays\obj\Debug\net8.0\ref\Arrays.dll

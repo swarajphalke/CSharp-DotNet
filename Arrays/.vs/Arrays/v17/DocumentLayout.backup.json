@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC0496F-F89E-44FB-A90E-07AD89C032C6}|Arrays\\Arrays.csproj|c:\\users\\admin\\onedrive\\desktop\\.net\\arrays\\arrays\\jaggedarray2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC0496F-F89E-44FB-A90E-07AD89C032C6}|Arrays\\Arrays.csproj|solutionrelative:arrays\\jaggedarray2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC0496F-F89E-44FB-A90E-07AD89C032C6}|Arrays\\Arrays.csproj|c:\\users\\admin\\onedrive\\desktop\\.net\\arrays\\arrays\\jaggedarray1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC0496F-F89E-44FB-A90E-07AD89C032C6}|Arrays\\Arrays.csproj|solutionrelative:arrays\\jaggedarray1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC0496F-F89E-44FB-A90E-07AD89C032C6}|Arrays\\Arrays.csproj|c:\\users\\admin\\onedrive\\desktop\\.net\\arrays\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC0496F-F89E-44FB-A90E-07AD89C032C6}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "jaggedArray2.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Arrays\\Arrays\\jaggedArray2.cs",
+              "RelativeDocumentMoniker": "Arrays\\jaggedArray2.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Arrays\\Arrays\\jaggedArray2.cs*",
+              "RelativeToolTip": "Arrays\\jaggedArray2.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:50:22.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "jaggedArray1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Arrays\\Arrays\\jaggedArray1.cs",
+              "RelativeDocumentMoniker": "Arrays\\jaggedArray1.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Arrays\\Arrays\\jaggedArray1.cs",
+              "RelativeToolTip": "Arrays\\jaggedArray1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvw4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:35:34.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Arrays\\Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Arrays\\Arrays\\Program.cs",
+              "RelativeToolTip": "Arrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T16:34:11.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
