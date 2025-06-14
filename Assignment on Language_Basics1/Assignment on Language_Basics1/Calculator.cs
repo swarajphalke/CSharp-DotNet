@@ -11,6 +11,7 @@ namespace Language_Basics1
         public static void App()
         {
             Operations();
+            
         }
 
         public static void Operations()
