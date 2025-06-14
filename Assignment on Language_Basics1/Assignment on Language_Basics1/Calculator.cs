@@ -8,6 +8,7 @@ namespace Language_Basics1
 {
     internal class Calculator
     {
+        
         public static void App()
         {
             Operations();
