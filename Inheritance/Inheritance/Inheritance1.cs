@@ -33,6 +33,7 @@ namespace Inheritance
         }
     }
 
+
     //Single Inheritance
     internal class Animal
     {
