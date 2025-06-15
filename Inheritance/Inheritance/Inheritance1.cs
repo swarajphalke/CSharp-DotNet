@@ -24,7 +24,6 @@ namespace Inheritance
             p.Bark();   // From Dog
             p.Weep();   // From Puppy
 
-
             Console.WriteLine();
 
             Console.WriteLine("\n🔷 Hierarchical Inheritance:");
