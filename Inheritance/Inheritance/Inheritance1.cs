@@ -32,6 +32,7 @@ namespace Inheritance
             c.Meow();   // From Cat
         }
     }
+    
 
     //Single Inheritance
     internal class Animal
