@@ -9,7 +9,6 @@
             v1.Stop();
 
             Console.WriteLine();
-            
             IVehicle v2 = new Bike();
             v2.Start();
             v2.Stop();
