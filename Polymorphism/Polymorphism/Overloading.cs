@@ -11,9 +11,10 @@ namespace Polymorphism
         static void Main(String[] args)
         {
             Calculator c = new Calculator();
-            Console.WriteLine(c.Add(4,5));
-            Console.WriteLine(c.Add(2.5f,2.5f));
-            Console.WriteLine(c.Add("Swa","raj"));
+            Console.WriteLine(c.Add(4, 5));
+            Console.WriteLine(c.Add(2.5f, 2.5f));
+            Console.WriteLine(c.Add("Swa", "raj"));
+            
         }
     }
 
