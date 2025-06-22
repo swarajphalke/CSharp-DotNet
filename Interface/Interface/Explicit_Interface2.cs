@@ -10,6 +10,7 @@ namespace Interface
     {
         public static void Main(String[] args)
         {
+            
             Printer p = new Printer();
             ((IColorPrinter)p).Print();
             ((IBWPrinter)p).Print();
