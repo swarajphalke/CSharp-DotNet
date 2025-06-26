@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	  <StartupObject>Abstraction.Abstraction2</StartupObject>
+	  <StartupObject>Abstraction.Abstraction3</StartupObject>
   </PropertyGroup>
 
 </Project>
