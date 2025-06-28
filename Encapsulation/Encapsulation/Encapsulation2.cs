@@ -19,7 +19,6 @@ namespace Encapsulation
             s.Name = "";
             s.Age = -5;
 
-
         }
     }
     class Student1
