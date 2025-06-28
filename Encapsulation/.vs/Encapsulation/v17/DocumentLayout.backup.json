@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Encapsulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C74D163F-A50B-401D-A9F1-2312AE576E61}|Encapsulation\\Encapsulation.csproj|c:\\users\\admin\\onedrive\\desktop\\.net\\encapsulation\\encapsulation\\encapsulation3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C74D163F-A50B-401D-A9F1-2312AE576E61}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\encapsulation3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74D163F-A50B-401D-A9F1-2312AE576E61}|Encapsulation\\Encapsulation.csproj|c:\\users\\admin\\onedrive\\desktop\\.net\\encapsulation\\encapsulation\\encapsulation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C74D163F-A50B-401D-A9F1-2312AE576E61}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\encapsulation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74D163F-A50B-401D-A9F1-2312AE576E61}|Encapsulation\\Encapsulation.csproj|c:\\users\\admin\\onedrive\\desktop\\.net\\encapsulation\\encapsulation\\encapsulation1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C74D163F-A50B-401D-A9F1-2312AE576E61}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\encapsulation1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74D163F-A50B-401D-A9F1-2312AE576E61}|Encapsulation\\Encapsulation.csproj|c:\\users\\admin\\onedrive\\desktop\\.net\\encapsulation\\encapsulation\\encapsulation2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C74D163F-A50B-401D-A9F1-2312AE576E61}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\encapsulation2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Encapsulation3.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Encapsulation\\Encapsulation\\Encapsulation3.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Encapsulation3.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Encapsulation\\Encapsulation\\Encapsulation3.cs",
+              "RelativeToolTip": "Encapsulation\\Encapsulation3.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwCsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T07:07:07.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Encapsulation",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Encapsulation\\Encapsulation\\Encapsulation.csproj",
+              "RelativeDocumentMoniker": "Encapsulation\\Encapsulation.csproj",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Encapsulation\\Encapsulation\\Encapsulation.csproj",
+              "RelativeToolTip": "Encapsulation\\Encapsulation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-28T06:55:12.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Encapsulation2.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Encapsulation\\Encapsulation\\Encapsulation2.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Encapsulation2.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Encapsulation\\Encapsulation\\Encapsulation2.cs",
+              "RelativeToolTip": "Encapsulation\\Encapsulation2.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wBMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T06:51:34.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Encapsulation1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Encapsulation\\Encapsulation\\Encapsulation1.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Encapsulation1.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Encapsulation\\Encapsulation\\Encapsulation1.cs",
+              "RelativeToolTip": "Encapsulation\\Encapsulation1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T06:41:11.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

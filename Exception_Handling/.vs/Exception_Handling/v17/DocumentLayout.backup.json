@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Exception_Handling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{713A1CF0-8D1D-400E-BA98-55728499A07E}|Exception_Handling\\Exception_Handling.csproj|c:\\users\\admin\\onedrive\\desktop\\.net\\exception_handling\\exception_handling\\exception_handling.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{713A1CF0-8D1D-400E-BA98-55728499A07E}|Exception_Handling\\Exception_Handling.csproj|solutionrelative:exception_handling\\exception_handling.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713A1CF0-8D1D-400E-BA98-55728499A07E}|Exception_Handling\\Exception_Handling.csproj|c:\\users\\admin\\onedrive\\desktop\\.net\\exception_handling\\exception_handling\\argument_excep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713A1CF0-8D1D-400E-BA98-55728499A07E}|Exception_Handling\\Exception_Handling.csproj|solutionrelative:exception_handling\\argument_excep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713A1CF0-8D1D-400E-BA98-55728499A07E}|Exception_Handling\\Exception_Handling.csproj|c:\\users\\admin\\onedrive\\desktop\\.net\\exception_handling\\exception_handling\\custom_excep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713A1CF0-8D1D-400E-BA98-55728499A07E}|Exception_Handling\\Exception_Handling.csproj|solutionrelative:exception_handling\\custom_excep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Custom_Excep.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Exception_Handling\\Exception_Handling\\Custom_Excep.cs",
+              "RelativeDocumentMoniker": "Exception_Handling\\Custom_Excep.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Exception_Handling\\Exception_Handling\\Custom_Excep.cs",
+              "RelativeToolTip": "Exception_Handling\\Custom_Excep.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T10:59:53.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Argument_Excep.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Exception_Handling\\Exception_Handling\\Argument_Excep.cs",
+              "RelativeDocumentMoniker": "Exception_Handling\\Argument_Excep.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Exception_Handling\\Exception_Handling\\Argument_Excep.cs",
+              "RelativeToolTip": "Exception_Handling\\Argument_Excep.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T10:55:37.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exception_Handling",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Exception_Handling\\Exception_Handling\\Exception_Handling.csproj",
+              "RelativeDocumentMoniker": "Exception_Handling\\Exception_Handling.csproj",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Exception_Handling\\Exception_Handling\\Exception_Handling.csproj*",
+              "RelativeToolTip": "Exception_Handling\\Exception_Handling.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-28T10:22:33.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
