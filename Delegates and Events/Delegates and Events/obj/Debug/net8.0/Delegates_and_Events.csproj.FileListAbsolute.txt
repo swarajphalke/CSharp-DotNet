@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\.Net\Delegates and Events\Delegates and Events\bin\Debug\net8.0\Delegates_and_Events.exe
+C:\Users\Admin\OneDrive\Desktop\.Net\Delegates and Events\Delegates and Events\bin\Debug\net8.0\Delegates_and_Events.deps.json
+C:\Users\Admin\OneDrive\Desktop\.Net\Delegates and Events\Delegates and Events\bin\Debug\net8.0\Delegates_and_Events.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\.Net\Delegates and Events\Delegates and Events\bin\Debug\net8.0\Delegates_and_Events.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\Delegates and Events\Delegates and Events\bin\Debug\net8.0\Delegates_and_Events.pdb
+C:\Users\Admin\OneDrive\Desktop\.Net\Delegates and Events\Delegates and Events\obj\Debug\net8.0\Delegates_and_Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\.Net\Delegates and Events\Delegates and Events\obj\Debug\net8.0\Delegates_and_Events.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\Delegates and Events\Delegates and Events\obj\Debug\net8.0\Delegates_and_Events.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\.Net\Delegates and Events\Delegates and Events\obj\Debug\net8.0\Delegates_and_Events.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\Delegates and Events\Delegates and Events\obj\Debug\net8.0\Delegates_and_Events.sourcelink.json
+C:\Users\Admin\OneDrive\Desktop\.Net\Delegates and Events\Delegates and Events\obj\Debug\net8.0\Delegates_and_Events.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\Delegates and Events\Delegates and Events\obj\Debug\net8.0\refint\Delegates_and_Events.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\Delegates and Events\Delegates and Events\obj\Debug\net8.0\Delegates_and_Events.pdb
+C:\Users\Admin\OneDrive\Desktop\.Net\Delegates and Events\Delegates and Events\obj\Debug\net8.0\Delegates_and_Events.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\Delegates and Events\Delegates and Events\obj\Debug\net8.0\ref\Delegates_and_Events.dll

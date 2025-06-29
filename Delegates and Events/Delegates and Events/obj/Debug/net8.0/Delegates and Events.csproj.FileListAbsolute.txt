@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\.Net\Delegates and Events\Delegates and Events\bin\Debug\net8.0\Delegates and Events.exe
+C:\Users\Admin\OneDrive\Desktop\.Net\Delegates and Events\Delegates and Events\bin\Debug\net8.0\Delegates and Events.deps.json
+C:\Users\Admin\OneDrive\Desktop\.Net\Delegates and Events\Delegates and Events\bin\Debug\net8.0\Delegates and Events.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\.Net\Delegates and Events\Delegates and Events\bin\Debug\net8.0\Delegates and Events.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\Delegates and Events\Delegates and Events\bin\Debug\net8.0\Delegates and Events.pdb
+C:\Users\Admin\OneDrive\Desktop\.Net\Delegates and Events\Delegates and Events\obj\Debug\net8.0\Delegates and Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\.Net\Delegates and Events\Delegates and Events\obj\Debug\net8.0\Delegates and Events.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\Delegates and Events\Delegates and Events\obj\Debug\net8.0\Delegates and Events.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\.Net\Delegates and Events\Delegates and Events\obj\Debug\net8.0\Delegates and Events.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\Delegates and Events\Delegates and Events\obj\Debug\net8.0\Delegates and Events.sourcelink.json
+C:\Users\Admin\OneDrive\Desktop\.Net\Delegates and Events\Delegates and Events\obj\Debug\net8.0\Delegates and Events.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\Delegates and Events\Delegates and Events\obj\Debug\net8.0\refint\Delegates and Events.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\Delegates and Events\Delegates and Events\obj\Debug\net8.0\Delegates and Events.pdb
+C:\Users\Admin\OneDrive\Desktop\.Net\Delegates and Events\Delegates and Events\obj\Debug\net8.0\Delegates and Events.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\Delegates and Events\Delegates and Events\obj\Debug\net8.0\ref\Delegates and Events.dll

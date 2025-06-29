@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Init_Property\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{450EF2F1-F206-4A90-9988-3DD7C845626F}|Init_Property\\Init_Property.csproj|c:\\users\\admin\\onedrive\\desktop\\.net\\init_property\\init_property\\indexer_demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450EF2F1-F206-4A90-9988-3DD7C845626F}|Init_Property\\Init_Property.csproj|solutionrelative:init_property\\indexer_demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450EF2F1-F206-4A90-9988-3DD7C845626F}|Init_Property\\Init_Property.csproj|c:\\users\\admin\\onedrive\\desktop\\.net\\init_property\\init_property\\to_string_demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450EF2F1-F206-4A90-9988-3DD7C845626F}|Init_Property\\Init_Property.csproj|solutionrelative:init_property\\to_string_demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450EF2F1-F206-4A90-9988-3DD7C845626F}|Init_Property\\Init_Property.csproj|c:\\users\\admin\\onedrive\\desktop\\.net\\init_property\\init_property\\init_property.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{450EF2F1-F206-4A90-9988-3DD7C845626F}|Init_Property\\Init_Property.csproj|solutionrelative:init_property\\init_property.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Indexer_Demo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Init_Property\\Init_Property\\Indexer_Demo.cs",
+              "RelativeDocumentMoniker": "Init_Property\\Indexer_Demo.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Init_Property\\Init_Property\\Indexer_Demo.cs",
+              "RelativeToolTip": "Init_Property\\Indexer_Demo.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwBAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T06:29:54.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Init_Property",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Init_Property\\Init_Property\\Init_Property.csproj",
+              "RelativeDocumentMoniker": "Init_Property\\Init_Property.csproj",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Init_Property\\Init_Property\\Init_Property.csproj",
+              "RelativeToolTip": "Init_Property\\Init_Property.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-29T06:26:26.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "To_String_Demo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Init_Property\\Init_Property\\To_String_Demo.cs",
+              "RelativeDocumentMoniker": "Init_Property\\To_String_Demo.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\.Net\\Init_Property\\Init_Property\\To_String_Demo.cs",
+              "RelativeToolTip": "Init_Property\\To_String_Demo.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T06:21:50.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

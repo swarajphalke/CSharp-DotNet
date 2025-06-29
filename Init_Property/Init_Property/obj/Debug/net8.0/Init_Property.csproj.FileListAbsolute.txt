@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\.Net\Init_Property\Init_Property\bin\Debug\net8.0\Init_Property.exe
+C:\Users\Admin\OneDrive\Desktop\.Net\Init_Property\Init_Property\bin\Debug\net8.0\Init_Property.deps.json
+C:\Users\Admin\OneDrive\Desktop\.Net\Init_Property\Init_Property\bin\Debug\net8.0\Init_Property.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\.Net\Init_Property\Init_Property\bin\Debug\net8.0\Init_Property.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\Init_Property\Init_Property\bin\Debug\net8.0\Init_Property.pdb
+C:\Users\Admin\OneDrive\Desktop\.Net\Init_Property\Init_Property\obj\Debug\net8.0\Init_Property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\.Net\Init_Property\Init_Property\obj\Debug\net8.0\Init_Property.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\Init_Property\Init_Property\obj\Debug\net8.0\Init_Property.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\.Net\Init_Property\Init_Property\obj\Debug\net8.0\Init_Property.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\Init_Property\Init_Property\obj\Debug\net8.0\Init_Property.sourcelink.json
+C:\Users\Admin\OneDrive\Desktop\.Net\Init_Property\Init_Property\obj\Debug\net8.0\Init_Property.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\Init_Property\Init_Property\obj\Debug\net8.0\refint\Init_Property.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\Init_Property\Init_Property\obj\Debug\net8.0\Init_Property.pdb
+C:\Users\Admin\OneDrive\Desktop\.Net\Init_Property\Init_Property\obj\Debug\net8.0\Init_Property.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\Init_Property\Init_Property\obj\Debug\net8.0\ref\Init_Property.dll

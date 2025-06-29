@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	  <StartupObject>Exception_Handling.Program</StartupObject>
+	  <StartupObject>Exception_Handling.Array_Type_Mismatch_Excep</StartupObject>
   </PropertyGroup>
 
 </Project>
