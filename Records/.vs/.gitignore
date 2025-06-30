@@ -1,8 +1,0 @@
-# Ignore Visual Studio settings and temp files
-.vs/
-*.user
-*.suo
-
-# Ignore build output
-bin/
-obj/
