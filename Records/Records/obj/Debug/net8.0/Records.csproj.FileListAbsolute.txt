@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\.Net\Records\Records\bin\Debug\net8.0\Records.exe
+C:\Users\Admin\OneDrive\Desktop\.Net\Records\Records\bin\Debug\net8.0\Records.deps.json
+C:\Users\Admin\OneDrive\Desktop\.Net\Records\Records\bin\Debug\net8.0\Records.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\.Net\Records\Records\bin\Debug\net8.0\Records.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\Records\Records\bin\Debug\net8.0\Records.pdb
+C:\Users\Admin\OneDrive\Desktop\.Net\Records\Records\obj\Debug\net8.0\Records.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\.Net\Records\Records\obj\Debug\net8.0\Records.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\Records\Records\obj\Debug\net8.0\Records.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\.Net\Records\Records\obj\Debug\net8.0\Records.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\Records\Records\obj\Debug\net8.0\Records.sourcelink.json
+C:\Users\Admin\OneDrive\Desktop\.Net\Records\Records\obj\Debug\net8.0\Records.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\Records\Records\obj\Debug\net8.0\refint\Records.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\Records\Records\obj\Debug\net8.0\Records.pdb
+C:\Users\Admin\OneDrive\Desktop\.Net\Records\Records\obj\Debug\net8.0\Records.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\Records\Records\obj\Debug\net8.0\ref\Records.dll
