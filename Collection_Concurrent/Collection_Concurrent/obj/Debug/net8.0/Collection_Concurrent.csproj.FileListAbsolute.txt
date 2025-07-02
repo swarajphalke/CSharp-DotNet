@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\.Net\Collection_Concurrent\Collection_Concurrent\bin\Debug\net8.0\Collection_Concurrent.exe
+C:\Users\Admin\OneDrive\Desktop\.Net\Collection_Concurrent\Collection_Concurrent\bin\Debug\net8.0\Collection_Concurrent.deps.json
+C:\Users\Admin\OneDrive\Desktop\.Net\Collection_Concurrent\Collection_Concurrent\bin\Debug\net8.0\Collection_Concurrent.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\.Net\Collection_Concurrent\Collection_Concurrent\bin\Debug\net8.0\Collection_Concurrent.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\Collection_Concurrent\Collection_Concurrent\bin\Debug\net8.0\Collection_Concurrent.pdb
+C:\Users\Admin\OneDrive\Desktop\.Net\Collection_Concurrent\Collection_Concurrent\obj\Debug\net8.0\Collection_Concurrent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\.Net\Collection_Concurrent\Collection_Concurrent\obj\Debug\net8.0\Collection_Concurrent.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\Collection_Concurrent\Collection_Concurrent\obj\Debug\net8.0\Collection_Concurrent.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\.Net\Collection_Concurrent\Collection_Concurrent\obj\Debug\net8.0\Collection_Concurrent.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\Collection_Concurrent\Collection_Concurrent\obj\Debug\net8.0\Collection_Concurrent.sourcelink.json
+C:\Users\Admin\OneDrive\Desktop\.Net\Collection_Concurrent\Collection_Concurrent\obj\Debug\net8.0\Collection_Concurrent.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\Collection_Concurrent\Collection_Concurrent\obj\Debug\net8.0\refint\Collection_Concurrent.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\Collection_Concurrent\Collection_Concurrent\obj\Debug\net8.0\Collection_Concurrent.pdb
+C:\Users\Admin\OneDrive\Desktop\.Net\Collection_Concurrent\Collection_Concurrent\obj\Debug\net8.0\Collection_Concurrent.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\Collection_Concurrent\Collection_Concurrent\obj\Debug\net8.0\ref\Collection_Concurrent.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\.Net\Collection_Generic\Collection_Generic\obj\Debug\net8.0\Collection_Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\.Net\Collection_Generic\Collection_Generic\obj\Debug\net8.0\Collection_Generic.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\Collection_Generic\Collection_Generic\obj\Debug\net8.0\Collection_Generic.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\.Net\Collection_Generic\Collection_Generic\obj\Debug\net8.0\Collection_Generic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\Collection_Generic\Collection_Generic\obj\Debug\net8.0\Collection_Generic.sourcelink.json
+C:\Users\Admin\OneDrive\Desktop\.Net\Collection_Generic\Collection_Generic\bin\Debug\net8.0\Collection_Generic.exe
+C:\Users\Admin\OneDrive\Desktop\.Net\Collection_Generic\Collection_Generic\bin\Debug\net8.0\Collection_Generic.deps.json
+C:\Users\Admin\OneDrive\Desktop\.Net\Collection_Generic\Collection_Generic\bin\Debug\net8.0\Collection_Generic.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\.Net\Collection_Generic\Collection_Generic\bin\Debug\net8.0\Collection_Generic.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\Collection_Generic\Collection_Generic\bin\Debug\net8.0\Collection_Generic.pdb
+C:\Users\Admin\OneDrive\Desktop\.Net\Collection_Generic\Collection_Generic\obj\Debug\net8.0\Collection_Generic.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\Collection_Generic\Collection_Generic\obj\Debug\net8.0\refint\Collection_Generic.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\Collection_Generic\Collection_Generic\obj\Debug\net8.0\Collection_Generic.pdb
+C:\Users\Admin\OneDrive\Desktop\.Net\Collection_Generic\Collection_Generic\obj\Debug\net8.0\Collection_Generic.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\Collection_Generic\Collection_Generic\obj\Debug\net8.0\ref\Collection_Generic.dll
