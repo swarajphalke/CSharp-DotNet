@@ -31,12 +31,14 @@ namespace Delegates_and_Events
         {
             Delegate_Demo1 d = new Delegate_Demo1();
 
+            Name n = new Name(empName);
             Salary s = new Salary(d.empSalary);
             Gender g = new Gender(d.empGender);
 
             String name = n.Invoke("Swaraj");
             Console.WriteLine(name);
             s.Invoke(56000);
+            g.Invoke("Male");
             g.Invoke("Male");
 
 
