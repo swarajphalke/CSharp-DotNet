@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\.Net\File_Handling\File_Handling\bin\Debug\net8.0\File_Handling.exe
+C:\Users\Admin\OneDrive\Desktop\.Net\File_Handling\File_Handling\bin\Debug\net8.0\File_Handling.deps.json
+C:\Users\Admin\OneDrive\Desktop\.Net\File_Handling\File_Handling\bin\Debug\net8.0\File_Handling.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\.Net\File_Handling\File_Handling\bin\Debug\net8.0\File_Handling.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\File_Handling\File_Handling\bin\Debug\net8.0\File_Handling.pdb
+C:\Users\Admin\OneDrive\Desktop\.Net\File_Handling\File_Handling\obj\Debug\net8.0\File_Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\.Net\File_Handling\File_Handling\obj\Debug\net8.0\File_Handling.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\File_Handling\File_Handling\obj\Debug\net8.0\File_Handling.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\.Net\File_Handling\File_Handling\obj\Debug\net8.0\File_Handling.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\File_Handling\File_Handling\obj\Debug\net8.0\File_Handling.sourcelink.json
+C:\Users\Admin\OneDrive\Desktop\.Net\File_Handling\File_Handling\obj\Debug\net8.0\File_Handling.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\File_Handling\File_Handling\obj\Debug\net8.0\refint\File_Handling.dll
+C:\Users\Admin\OneDrive\Desktop\.Net\File_Handling\File_Handling\obj\Debug\net8.0\File_Handling.pdb
+C:\Users\Admin\OneDrive\Desktop\.Net\File_Handling\File_Handling\obj\Debug\net8.0\File_Handling.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\.Net\File_Handling\File_Handling\obj\Debug\net8.0\ref\File_Handling.dll

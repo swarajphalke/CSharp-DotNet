@@ -3,10 +3,9 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
-    <RootNamespace>Delegates_and_Events</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	  <StartupObject>Delegates_and_Events.Predefined_Generic_Delegates</StartupObject>
+	  <StartupObject>File_Handling.FileInfo_Demo</StartupObject>
   </PropertyGroup>
 
 </Project>
