@@ -29,8 +29,6 @@ namespace Delegates_and_Events
 
         static void Main(string[] args)
         {
-            Name n = new Name(empName);
-
             Delegate_Demo1 d = new Delegate_Demo1();
 
             Salary s = new Salary(d.empSalary);
