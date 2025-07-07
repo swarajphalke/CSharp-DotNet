@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	  <StartupObject>LINQ.LINQ_SelectMany_Flattening2</StartupObject>
+	  <StartupObject>LINQ.LINQ_Join_GroupJoin1</StartupObject>
   </PropertyGroup>
 
 </Project>
