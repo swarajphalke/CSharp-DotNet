@@ -8,7 +8,6 @@ namespace Collection_Generic
 {
     internal class Queue_Demo
     {
-        
         static void Main()
         {
             Queue<string> tasks = new Queue<string>();
