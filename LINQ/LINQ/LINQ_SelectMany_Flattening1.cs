@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace LINQ
 {
+    
     internal class LINQ_SelectMany_Flattening1
     {
         static void Main()
