@@ -12,7 +12,6 @@ namespace LINQ
         {
             List<string[]> teams = new List<string[]>
             {
-                
                 new string[] { "Swaraj","Viraj"},
                 new string[] {"Mayuresh","Aditya"}
             };
