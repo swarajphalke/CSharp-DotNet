@@ -1,0 +1,51 @@
+﻿@page
+@model IndexModel
+@{
+	var message = "Good Morning all";
+	string[] arr = new string[5] { "a", "b", "c", "d", "e" };
+	string ch = "Wed";
+}
+
+<h1>@DateTime.Now</h1>
+<h3>@message</h3>
+
+@if (DateTime.IsLeapYear(2024))
+{
+	<text>Leap Year</text>
+}
+else
+{
+	<text>Not Leap Year</text>
+}
+
+<br />
+
+@for (int i = 0; i < 10; i++)
+{
+	<text>@i</text>
+	<br />
+}
+
+@foreach (string s in arr)
+{
+	<text>@s </text>
+}
+
+<br />
+
+@switch (ch)
+{
+	case "Sun":
+		<text>Sunday</text>
+		break;
+	case "Mon":
+		<text>Monday</text>
+		break;
+	case "Tue":
+		<text>Tuesday</text>
+		break;
+	case "Wed":
+		<text>Wednesday</text>
+		break;
+}
+

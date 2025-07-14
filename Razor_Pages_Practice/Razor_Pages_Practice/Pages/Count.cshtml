@@ -1,0 +1,11 @@
+﻿@page
+@model Razor_Pages_Practice.Pages.CountModel
+@{
+    ViewData["Title"] = "Counter";
+}
+
+<h2>You clicked @Model.Count times.</h2>
+<form method="post">
+    <input type="hidden" name="count" value="@Model.Count" />
+    <button type="submit">Click Me</button>
+</form>

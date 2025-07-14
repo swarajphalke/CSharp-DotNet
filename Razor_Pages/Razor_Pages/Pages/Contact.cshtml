@@ -1,0 +1,23 @@
+﻿@page
+@model ContactModel
+@{
+    <h2>Contact Us</h2>
+
+    <form method="post">
+        <label>Your Name:</label><br />
+        <input asp-for="Name" /><br /><br />
+
+        <label>Your Message:</label><br />
+        <textarea asp-for="Message"></textarea><br /><br />
+
+        <button type="submit">Send</button>
+    </form>
+
+    @if (!string.IsNullOrEmpty(Model.Response))
+    {
+        <hr />
+        <h4>Message Sent:</h4>
+        <p>@Model.Response</p>
+    }
+
+}
