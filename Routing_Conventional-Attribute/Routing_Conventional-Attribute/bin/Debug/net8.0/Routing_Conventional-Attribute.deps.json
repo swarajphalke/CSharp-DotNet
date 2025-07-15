@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Routing_Conventional-Attribute/1.0.0": {
+        "runtime": {
+          "Routing_Conventional-Attribute.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Routing_Conventional-Attribute/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

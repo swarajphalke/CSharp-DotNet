@@ -1,0 +1,44 @@
+﻿@model Tag_Helper.Models.Student
+
+@{
+	<form asp-controller="Stud" asp-action="Create" method="post">
+		<label asp-for="StudentId">StudentId</label>
+		<input asp-for="StudentId" placeholder="Enter Student ID" />
+		<br />
+		<label asp-for="Name">Student Name</label>
+		<input asp-for="Name" placeholder="Enter Student Name" />
+		<br />
+		<label asp-for="Email">Email</label>
+		<input asp-for="Email" placeholder="Enter Email" />
+		<br />
+		<label asp-for="Password"></label>
+		@Html.PasswordFor(m => m.Password)
+		<input asp-for="Password" placeholder="Enter Password" />
+		<br />
+		<label asp-for="Branch"></label>
+		<select asp-for="Branch" asp-items="Html.GetEnumSelectList<Branch>()"></select>
+		<br />
+		<label asp-for="Gender"></label>
+		@foreach (var gender in ViewBag.AllGenders)
+		{
+			<label class="radio-inline">
+				<input type="radio" asp-for="Gender" value="@gender" id="Gender@(gender)" />@gender<br />
+			</label>
+		}
+		<br/>
+		<label asp-for="IsRegular"></label><br />
+		<input type="checkbox" asp-for="IsRegular" />
+		<br />
+		<label asp-for="DateOfBirth"></label>
+		<input asp-for="DateOfBirth" />
+		<br />
+		<label asp-for="Address"></label><br />
+		<textarea asp-for="Address" placeholder="Enter Your Address"></textarea>
+		<button type="submit" class="btn btn-primary">Create</button>
+	</form>
+
+	<a href="https://www.google.com">Google</a>
+	<a asp-asp-controller="Home" asp-action="Privacy">Privacy</a>
+}
+
+
