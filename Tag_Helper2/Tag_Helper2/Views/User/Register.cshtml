@@ -1,0 +1,125 @@
+﻿@model User
+
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<h2>User Registration</h2>
+
+<!-- ================================
+🧩 FORM TAG HELPER
+Creates a form with automatic action and controller binding
+================================ -->
+<form asp-controller="User" asp-action="Register" method="post">
+
+    <!-- 🧩 VALIDATION SUMMARY
+    Displays all validation errors at the top -->
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <!-- =============================
+    NAME FIELD
+    ============================= -->
+    <!-- 🧩 LABEL TAG HELPER
+    Creates a <label> element for the 'Name' property -->
+    <label asp-for="Name"></label>
+
+    <!-- 🧩 INPUT TAG HELPER
+    Creates an <input> element for 'Name' model property -->
+    <input asp-for="Name" class="form-control" />
+
+    <!-- 🧩 VALIDATION MESSAGE
+    Shows error if 'Name' is invalid -->
+    <span asp-validation-for="Name" class="text-danger"></span>
+
+    <br />
+
+    <!-- =============================
+    EMAIL FIELD
+    ============================= -->
+    <label asp-for="Email"></label>
+    <input asp-for="Email" class="form-control" />
+    <span asp-validation-for="Email" class="text-danger"></span>
+
+    <br />
+
+    <!-- =============================
+    PASSWORD FIELD
+    ============================= -->
+    <label asp-for="Password"></label>
+    <input asp-for="Password" class="form-control" />
+    <span asp-validation-for="Password" class="text-danger"></span>
+
+    <br />
+
+    <!-- =============================
+    AGE FIELD
+    ============================= -->
+    <label asp-for="Age"></label>
+    <input asp-for="Age" class="form-control" />
+    <span asp-validation-for="Age" class="text-danger"></span>
+
+    <br />
+
+    <!-- =============================
+    GENDER SELECT FIELD
+    ============================= -->
+    <label asp-for="Gender"></label>
+
+    <!-- 🧩 SELECT TAG HELPER
+    Creates <select> for Gender with manual <option>s -->
+    <select asp-for="Gender" class="form-control">
+        <option value="">-- Select Gender --</option>
+        <option>Male</option>
+        <option>Female</option>
+        <option>Other</option>
+    </select>
+
+    <span asp-validation-for="Gender" class="text-danger"></span>
+
+    <br />
+
+    <!-- =============================
+    BIO TEXTAREA FIELD
+    ============================= -->
+    <label asp-for="Bio"></label>
+
+    <!-- 🧩 TEXTAREA TAG HELPER
+    Creates a <textarea> bound to Bio -->
+    <textarea asp-for="Bio" class="form-control"></textarea>
+
+    <span asp-validation-for="Bio" class="text-danger"></span>
+
+    <br />
+
+    <!-- =============================
+    ACCEPT TERMS CHECKBOX
+    ============================= -->
+    <!-- 🧩 INPUT CHECKBOX BOUND TO BOOL -->
+    <label>
+        <input asp-for="AcceptTerms" /> I accept terms and conditions
+    </label>
+
+    <span asp-validation-for="AcceptTerms" class="text-danger"></span>
+
+    <br /><br />
+
+    <!-- =============================
+    SUBMIT BUTTON
+    ============================= -->
+    <!-- 🧩 BUTTON
+    A standard HTML button that submits the form -->
+    <button type="submit" class="btn btn-success">Register</button>
+
+    <!-- =============================
+    ANCHOR TAG HELPER
+    Generates a link to another action -->
+    <a asp-controller="Home" asp-action="Index" class="btn btn-secondary">Cancel</a>
+
+</form>
+
+<!-- =============================
+CLIENT-SIDE VALIDATION SCRIPTS
+Enables jQuery validation
+============================= -->
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
