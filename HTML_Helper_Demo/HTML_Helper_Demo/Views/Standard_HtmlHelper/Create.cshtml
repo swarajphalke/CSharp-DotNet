@@ -1,0 +1,54 @@
+﻿@using Microsoft.AspNetCore.Mvc.Rendering
+
+
+@{
+	ViewBag.Title = "Standard HTML Helpers";
+	var cityOptions = new SelectList(new List<string> { "Mumbai", "Pune", "Delhi" });
+	var skillOptions = new MultiSelectList(new List<string> { "C#", "JavaScript", "Python" });
+}
+
+<h2>Standard HTML Helpers</h2>
+
+@using (Html.BeginForm("Create", "Standard_HTMLHelper", FormMethod.Post))
+{
+	<p>
+		@* TextBox: Simple text input *@
+		Name: @Html.TextBox("name")
+	</p>
+
+	<p>
+		@* TextArea: Multi-line input field *@
+		Comment: @Html.TextArea("comment")
+	</p>
+
+	<p>
+		@* Password: Input with hidden characters *@
+		Password: @Html.Password("password")
+	</p>
+
+	<p>
+		@* Hidden field: Hidden from user but sent in form *@
+		@Html.Hidden("userId", 101)
+	</p>
+
+	<p>
+		@* CheckBox: Boolean value toggle *@
+		Active: @Html.CheckBox("isActive")
+	</p>
+
+	<p>
+		@* RadioButton: Choose one gender option *@
+		Gender:
+		@Html.RadioButton("gender", "Male") Male
+		@Html.RadioButton("gender", "Female") Female
+	</p>
+
+	<p>
+		@* DropDownList: Select one city *@
+		City: @Html.DropDownList("cityList", cityOptions)
+	</p>
+
+
+
+	<input type="submit" value="Submit" />
+}

@@ -1,0 +1,42 @@
+﻿@model HTML_Helper_Demo.Models.Student
+@using Microsoft.AspNetCore.Mvc.Rendering
+
+<h2>Strongly Typed Form</h2>
+
+@using (Html.BeginForm("Submit", "StronglyTyped_HTMLHelperController", FormMethod.Post))
+{
+    <p>
+        @Html.LabelFor(m => m.Name)
+        @Html.TextBoxFor(m => m.Name)
+    </p>
+
+    <p>
+        @Html.LabelFor(m => m.Bio)
+        @Html.TextAreaFor(m => m.Bio)
+    </p>
+
+    <p>
+        @Html.LabelFor(m => m.Password)
+        @Html.PasswordFor(m => m.Password)
+    </p>
+
+    <p>
+        @Html.HiddenFor(m => m.Id)
+    </p>
+
+    <p>
+        @Html.CheckBoxFor(m => m.IsActive)
+        @Html.LabelFor(m => m.IsActive)
+    </p>
+
+    <p>
+        Gender:
+        @Html.RadioButtonFor(m => m.Gender, "Male") Male
+        @Html.RadioButtonFor(m => m.Gender, "Female") Female
+    </p>
+
+    <p>
+        City: @Html.DropDownListFor(m => m.City, (SelectList)ViewBag.Cities)
+    </p>
+
+    <input type="submit" value="Submit" />
