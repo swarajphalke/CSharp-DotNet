@@ -1,0 +1,30 @@
+﻿@model CookiesDemo.Models.User;
+@using (Html.BeginForm("Index", "Home", FormMethod.Post))
+{
+
+
+	<table>
+		<tr>
+			<td>
+				@Html.LabelFor(model => model.Username)
+			</td>
+
+			<td>
+				@Html.TextBoxFor(model => model.Username, new { @class = "form-control" })
+				@Html.ValidationMessageFor(model => model.Username, "", new { @class = "text-danger" })
+			</td>
+		</tr>
+
+
+		<tr>
+			<td>
+			</td>
+
+			<td>
+				<input type="submit" name="name" value="Submit" class="btn btn-info" />
+			</td>
+		</tr>
+	</table>
+
+
+}

@@ -1,0 +1,11 @@
+﻿@{
+    ViewBag.Title = "Welcome";
+}
+
+<h2>Welcome Page</h2>
+
+<p>Hello, <strong>@ViewBag.UserName</strong>! 🎉</p>
+
+<form asp-action="Logout" method="get">
+    <button class="btn btn-danger">Logout</button>
+</form>
