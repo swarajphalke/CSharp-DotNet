@@ -1,0 +1,16 @@
+﻿@model Model_Binding_FromForm.Models.Users
+
+<form asp-controller="user" asp-action="Create" method="post">
+    <label>Enter Id</label>
+    <input asp-for="Id" placeholder="Enter your Id" />
+    <label>Name:</label>
+    <input asp-for="Name" placeholder="Enter Your Name" />
+    <br />
+    <label>Age:</label>
+    <input asp-for="Age" placeholder="Enter Your Age" />
+    <br />
+    <label>Mobile:</label>
+    <input asp-for="Mobile" type="number" placeholder="Enter Your Mobile Number" />
+    <br />
+    <input type="submit" value="Create User" />
+</form>

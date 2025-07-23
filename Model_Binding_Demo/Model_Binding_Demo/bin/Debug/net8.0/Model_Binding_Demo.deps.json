@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Model_Binding_Demo/1.0.0": {
+        "runtime": {
+          "Model_Binding_Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Model_Binding_Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
