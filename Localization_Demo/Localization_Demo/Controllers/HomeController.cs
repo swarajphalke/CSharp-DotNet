@@ -1,8 +1,8 @@
 using System.Diagnostics;
+using Localization_Demo.Models;
 using Microsoft.AspNetCore.Mvc;
-using Query_String.Models;
 
-namespace Query_String.Controllers
+namespace Localization_Demo.Controllers
 {
     public class HomeController : Controller
     {
@@ -12,6 +12,7 @@ namespace Query_String.Controllers
         {
             _logger = logger;
         }
+
         public IActionResult Index()
         {
             return View();
