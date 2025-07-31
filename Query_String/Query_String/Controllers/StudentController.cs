@@ -7,6 +7,7 @@ namespace Query_String.Controllers
 
         public IActionResult Details(int id, string name)
         {
+            
             // GET: /Student/Details?id=1&name=Aditya
             ViewBag.StudentId = id;
             ViewBag.StudentName = name;
