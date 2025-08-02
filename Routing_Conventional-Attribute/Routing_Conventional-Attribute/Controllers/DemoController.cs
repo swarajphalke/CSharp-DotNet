@@ -12,6 +12,7 @@ namespace Routing_Conventional_Attribute.Controllers
 
         [Route("demo")] // → /Practice/demo
         public IActionResult Demo()
+        
         {
             ViewData["message"] = "Welcome to ASP.NET Core!";
             ViewData["Year"] = 2025;
