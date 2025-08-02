@@ -15,8 +15,6 @@ namespace Routing_Conventional_Attribute.Controllers
         {
             ViewData["message"] = "Welcome to ASP.NET Core!";
             ViewData["Year"] = 2025;
-
-            
             return View();
         }
 
