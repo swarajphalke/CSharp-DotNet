@@ -12,12 +12,13 @@ namespace Routing_Conventional_Attribute.Controllers
 
         [Route("demo")] // → /Practice/demo
         public IActionResult Demo()
-        
         {
             ViewData["message"] = "Welcome to ASP.NET Core!";
             ViewData["Year"] = 2025;
+            
             return View();
         }
+
         [Route("numbers/{id}")] // → /Practice/numbers/22
         public IActionResult numbers(int id)
         {
