@@ -9,6 +9,7 @@ public class ContactModel : PageModel
     [BindProperty]
     public string Message { get; set; }
 
+
     public string Response { get; set; }
 
     public void OnPost()
