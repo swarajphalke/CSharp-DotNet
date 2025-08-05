@@ -12,7 +12,6 @@ public class ContactModel : PageModel
     public string Response { get; set; }
 
 
-
     public void OnPost()
     {
         Response = $"Thanks, {Name}! You said: {Message}";
