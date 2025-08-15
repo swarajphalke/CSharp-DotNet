@@ -13,7 +13,6 @@ namespace View_Model.Controllers
         {
 
 
-            
             Student s = new Student()
             {
                 StudentId = 12,
