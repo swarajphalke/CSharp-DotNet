@@ -12,6 +12,7 @@ namespace View_Model.Controllers
         public IActionResult Details()
         {
 
+
             
             Student s = new Student()
             {
