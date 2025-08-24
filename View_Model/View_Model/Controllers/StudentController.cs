@@ -9,6 +9,8 @@ namespace View_Model.Controllers
         {
             return View();
         }
+
+
         
         public IActionResult Details()
         {
