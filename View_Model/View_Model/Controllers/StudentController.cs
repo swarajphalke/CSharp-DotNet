@@ -10,7 +10,6 @@ namespace View_Model.Controllers
             return View();
         }
 
-
         public IActionResult Details()
         {
             Student s = new Student()
