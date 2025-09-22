@@ -10,6 +10,8 @@ public class ContactModel : PageModel
     public string Message { get; set; }
 
 
+
+
     public string Response { get; set; }
 
     public void OnPost()
