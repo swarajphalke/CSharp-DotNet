@@ -11,7 +11,6 @@ public class ContactModel : PageModel
 
 
 
-
     public string Response { get; set; }
 
     public void OnPost()
