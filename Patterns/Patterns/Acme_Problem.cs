@@ -27,7 +27,6 @@ namespace Patterns
 
 
 
-                    
                     else
                     {
                         Console.Write("*," + " ");
