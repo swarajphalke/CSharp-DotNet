@@ -24,6 +24,10 @@ namespace Patterns
                     {
                         Console.Write(num + "," + " ");
                     }
+
+
+
+                    
                     else
                     {
                         Console.Write("*," + " ");
