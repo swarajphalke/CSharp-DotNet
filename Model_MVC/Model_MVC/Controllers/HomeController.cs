@@ -18,7 +18,6 @@ namespace Model_MVC.Controllers
             return View();
         }
 
-
         public IActionResult Privacy()
         {
             return View();
