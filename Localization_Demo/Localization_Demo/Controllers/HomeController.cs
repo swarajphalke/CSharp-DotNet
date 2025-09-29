@@ -18,6 +18,10 @@ namespace Localization_Demo.Controllers
             return View();
         }
 
+
+
+
+
         public IActionResult Privacy()
         {
             return View();
