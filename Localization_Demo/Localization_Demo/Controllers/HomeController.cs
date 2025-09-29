@@ -20,7 +20,6 @@ namespace Localization_Demo.Controllers
 
 
 
-
         public IActionResult Privacy()
         {
             return View();
