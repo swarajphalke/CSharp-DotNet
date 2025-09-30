@@ -15,7 +15,6 @@ namespace Localization_Demo.Controllers
 
 
 
-
         public IActionResult Index()
         {
             return View();
