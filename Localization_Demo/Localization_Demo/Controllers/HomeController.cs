@@ -13,6 +13,9 @@ namespace Localization_Demo.Controllers
             _logger = logger;
         }
 
+
+
+
         public IActionResult Index()
         {
             return View();
