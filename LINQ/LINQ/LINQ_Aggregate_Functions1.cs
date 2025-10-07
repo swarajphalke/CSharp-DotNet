@@ -15,7 +15,6 @@ namespace LINQ
             int total = marks.Sum();
             double average = marks.Average();
             int count = marks.Count();
-            
             int min = marks.Min();
             int max = marks.Max();
 
