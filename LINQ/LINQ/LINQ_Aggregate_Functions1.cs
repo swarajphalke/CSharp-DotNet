@@ -18,6 +18,7 @@ namespace LINQ
             int min = marks.Min();
             int max = marks.Max();
 
+
             Console.WriteLine("Total: " + total);
             Console.WriteLine("Average: " + average);
             Console.WriteLine("Count: " + count);
